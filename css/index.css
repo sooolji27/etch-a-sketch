@@ -24,6 +24,10 @@ h1{
    margin-bottom: 15px;
    font-size: larger;
 }
+footer{
+   margin-top: 50px;
+   display: flex;
+}
 #button{
    margin-bottom: 30px;
    border-radius: 10px;
